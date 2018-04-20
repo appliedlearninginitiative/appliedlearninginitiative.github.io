@@ -7297,7 +7297,7 @@ textarea {
 
 body {
 	margin: 0;
-	font-size: 22px;
+	font-size: 27px;
 	font-family: sans-serif;
 	line-height: 1.55;
 	-moz-font-feature-settings: "liga" on;
@@ -8928,7 +8928,7 @@ input[type=submit]::-moz-focus-card {
 
 @media (min-width:1200px) {
 	body {
-		font-size: 21px
+		font-size: 27px
 	}
 }
 
@@ -18669,7 +18669,7 @@ form .truncatable--show {
 }
 
 .base-tease__heading {
-	font-size: 22px;
+	font-size: 28px;
 	font-weight: 400;
 	line-height: 1.2;
 	margin-bottom: 10px
@@ -18677,7 +18677,7 @@ form .truncatable--show {
 
 @media (min-width:1070px) {
 	.base-tease__heading {
-		font-size: 24px
+		font-size: 28px
 	}
 }
 
