@@ -726,8 +726,8 @@ table {
 .color--box-shadow-hover:hover,
 .no-results-link:focus,
 .no-results-link:hover {
-	-webkit-box-shadow: 0 1px 0 0 #c2dfff;
-	box-shadow: 0 1px 0 0 #c2dfff
+	-webkit-box-shadow: 0 0px 0 0 #fff;
+	box-shadow: 0 0px 0 0 #fff;
 }
 
 .base-body .l--post-list-list .base-tease__heading--link,
