@@ -51,7 +51,17 @@
           ga('create', 'UA-80325496-2', 'auto');
           ga('send', 'pageview');
     </script>
-
+    <script>
+    var myimages=new Array()
+    function preloadimages(){
+    for (i=0;i<preloadimages.arguments.length;i++){
+    myimages[i]=new Image()
+    myimages[i].src=preloadimages.arguments[i]
+    }
+    }
+    preloadimages("./ALI/Gallery/d.png","./ALI/Gallery/c.png","./ALI/Gallery/b.png","./ALI/Gallery/e.png")
+    </script>
+    
 </head>
 
 <body class="home page page-id-629 page-template-default" style="overflow-x: hidden;     scroll-behavior: smooth;
